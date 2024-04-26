@@ -1,0 +1,51 @@
+.name {
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.same {
+    display: flex;
+    justify-content: center;
+
+}
+
+.same2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.edu {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.total {
+    display: flex;
+    /* justify-content: space-between; */
+    flex-direction: column;
+    gap: 20px 0;
+    align-items: center;
+}
+
+.first {
+    font-weight: 500;
+
+}
+
+.skill {
+    margin-top: 20px;
+    font-size: 21px;
+    font-weight: 800;
+}
+
+.list1 {
+    font-size: 18px;
+    margin-left: -10px;
+}
+
+.ach {
+    font-weight: 700;
+}
